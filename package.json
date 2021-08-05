@@ -1,0 +1,19 @@
+{
+  "name": "object-keys-camelcase",
+  "version": "1.0.0",
+  "description": "Change object keys from snake_case to camelCase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camelcase",
+    "object",
+    "keys"
+  ],
+  "author": "George Voutyras",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^6.2.0"
+  }
+}
