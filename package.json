@@ -1,6 +1,6 @@
 {
   "name": "object-keys-camelcase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change object keys from snake_case to camelCase",
   "main": "index.js",
   "scripts": {
